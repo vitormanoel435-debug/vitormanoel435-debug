@@ -1,45 +1,38 @@
- Matheus Lopes
-E-mail: matheuslopes.pdf@gmail.com
-Telefone: (11) 98402-8729
-Local: Taboão da Serra, SP
-LinkedIn: https://linkedin.com/in/matheuspdf
-GitHub: https://github.com/matheuspdf
-Currículo online: https://matheuspdf.github.io/cv_online/
-Sou graduada em Música, com experiência em educação musical e performance orquestral, onde desenvolvi fortes habilidades de colaboração e trabalho em equipe ao trabalhar em estreita colaboração com diferentes grupos para alcançar objetivos comuns. Atualmente, estou em transição para a área de tecnologia, buscando aplicar minhas habilidades na criação de soluções em desenvolvimento web e aplicações em nuvem.
+ Vitor Manoel Matsumoto Viola
+E-mail: vitormanoel435@gmail.com
+Telefone: (11) 98143-4807
+Local: Osasco, SP
+LinkedIn: https://linkedin.com/in/vitor-manoel-matsumoto-viola
+
+Sou graduado em Enfermagem, com sólida experiência em liderança de equipes, gestão de fluxos complexos sob pressão e conformidade com processos institucionais. Atualmente, estou em transição para a área de tecnologia, buscando aplicar minhas habilidades em SQL, Python, na criação de soluções em desenvolvimento web.
 
 Experiência profissional
-Analista de Suporte I , Serviço Ilha / PRODESP - 11/2024
+Beneficência Hospitalar do Cesário lange - Enfermeiro - 04/2024 - 02/2026
+Gestão de Fluxo e Triagem de Dados: Aplicação de protocolos analíticos (como o Protocolo de Manchester) para triagem, classificação de risco e priorização de fluxos de atendimento com base em dados vitais e sintomas, gerenciando filas de alta rotatividade e otimizando o tempo de resposta da unidade.
+​Liderança de Equipes e Tomada de Decisão: Coordenação e dimensionamento da equipe de técnicos de enfermagem em ambiente de alta pressão, garantindo a execução eficiente de processos e a mediação de conflitos operacionais.
+​Gerenciamento de Insumos e Logística: Controle rigoroso de estoque de materiais críticos, medicamentos controlados e auditoria de carrinhos de emergência, assegurando a conformidade com normas regulatórias e a disponibilidade de recursos.
+​Gestão de Informação e Sistemas de Saúde: Alimentação, análise e monitoramento de prontuários eletrônicos e sistemas de regulação de vagas de saúde, garantindo a integridade dos dados clínicos e a comunicação eficiente entre diferentes instituições hospitalares.
+​Resolução de Problemas Complexos (Mitigação de Riscos): Atuação direta na estabilização de crises e cenários críticos na Sala Vermelha, utilizando raciocínio lógico rápido e protocolos rígidos para minimizar falhas operacionais e garantir a segurança do paciente.
 
-Atender e registrar solicitações de suporte técnico por telefone e pelo sistema ITSM, garantindo que os incidentes sejam documentados, monitorados e resolvidos dentro dos prazos estabelecidos.
-Criar e manter documentação técnica, incluindo procedimentos e soluções para problemas recorrentes, garantindo clareza e acessibilidade.
-Encaminhar incidentes técnicos complexos para níveis de suporte superiores, fornecendo as informações necessárias para uma resolução eficiente.
-Realizar reuniões periódicas com a equipe técnica para alinhar procedimentos, revisar a base de conhecimento e identificar oportunidades para criar scripts que melhorem a prestação de serviços.
-Redigir e revisar procedimentos para a resolução de incidentes e problemas conhecidos, garantindo consistência e eficácia na sua aplicação.
-Assistente de TI - Estagiário de Suporte , SEG SAÚDE OCUPACIONAL - 02/2022 - 07/2024
+Camargo Dantas Medicina do Trabalho - Enfermeiro RT - 01/2024 - 04/2024
+​Governança e Compliance Regulatório: Garantia da conformidade legal da clínica perante o COREN, Anvisa e Ministério do Trabalho, aplicando auditorias internas de processos e assegurando o cumprimento rígido das Normas Regulamentadoras (como NR-7/PCMSO, NR-9 e NR-32).
+​Gestão de Processos e Fluxos de Trabalho (Workflows): Desenho, implementação e otimização dos fluxos de atendimento para exames admissionais, periódicos, demissionais e de retorno ao trabalho, visando a eficiência operacional e a redução do tempo de espera das empresas clientes.
+​Análise de Dados e Indicadores de Saúde (Business Intelligence): Monitoramento e consolidação de indicadores epidemiológicos e de absenteísmo, transformando dados brutos de saúde dos trabalhadores em relatórios estratégicos para apoiar a tomada de decisão das empresas parceiras.
+​Gestão de Dados e Integração com Sistemas Governamentais: Gestão de prontuários ocupacionais e garantia da acurácia das informações para faturamento e preenchimento de eventos de SST (Saúde e Segurança do Trabalho) integrados ao eSocial, atuando na validação e consistência dos dados enviados.
+​Gestão de Riscos e Auditoria: Supervisão e controle de qualidade dos insumos, calibração de equipamentos diagnósticos (audiometria, espirometria) e auditoria de prontuários, mitigando riscos jurídicos e operacionais para a clínica
 
-Coletar informações do sistema por meio da integração com APIs em Python, fornecendo dados para aplicativos NoCode de forma automatizada.
-Crie scripts e automações sem código para automatizar tarefas repetitivas ou complexas usando o Google Colab, o Google Sheets, o App Sheets e o Python.
-Treinar os usuários finais no uso dos sistemas e ferramentas, garantindo que eles possam operá-los de forma autônoma.
-Auxiliar na configuração, instalação e manutenção de hardware e software (Windows e Linux), bem como de dispositivos periféricos.
-Gerenciar permissões e configurações de usuários em diversos sistemas (Google Workspace, OMS - Sistema de Gestão Ocupacional, MADU - Software de Medicina e Segurança do Trabalho), garantindo que estejam alinhadas com as políticas de segurança da empresa.
-Assist in defining processes, as well as documenting and creating user guides, ensuring all procedures follow a standard.
-Analyze and monitor XML-formatted events related to occupational health and safety, ensuring the correct submission of information according to the standards established by eSocial.
-Handle Level 1 (L1) technical support calls, diagnosing and resolving user issues related to software and hardware.
-Music Teacher, ASSOCIAÇÃO MÚSICOS DO FUTURO - 02/2018 - 07/2021
+Assistente de enfermagem - Estagiário de Enfermagem, SEG SAÚDE OCUPACIONAL - 08/2021 - 01/2024
+Operação e Alimentação de Sistemas de Gestão (ERP/SST): Atuação direta na inserção, atualização e manutenção de dados clínicos e ocupacionais em softwares especializados (como SOC e Madu), garantindo a integridade e a qualidade do prontuário eletrônico.
+​Validação de Dados para o eSocial: Registro e checagem de informações de exames (admissionais, periódicos, demissionais) para a geração de arquivos e tabelas de SST direcionadas ao eSocial, identificando inconsistências de dados antes do envio governamental.
+​Suporte ao Usuário e Otimização de Fluxos: Apoio na triagem de pacientes e no direcionamento de fluxos dentro do sistema de agendamento, colaborando para a redução de gargalos no atendimento digital e físico da clínica.
+​Controle de Qualidade de Inputs: Responsável por digitalizar, anexar e indexar exames complementares (audiometria, espirometria, laboratoriais) no banco de dados do sistema, seguindo padrões rigorosos de organização de arquivos e segurança da informação.
 
-Teach cello lessons, both individually and in groups, promoting the musical development of students and adapting the teaching to their needs and skill levels.
-Organize orchestra rehearsals, coordinating logistics and repertoire, as well as maintaining the institution's sheet music collection, ensuring all materials were available and in good condition.
-Technical Department Assistant, TECNEL ELETRÔNICA - 10/2015 - 03/2017
+Acadêmico
+Fmu - Sistemas de Informação Bacharelado em andamento - 05/2026
 
-Manipulate printed circuit boards according to design standards, using CAM350 to ensure quality and feasibility for mass production.
-Assist in the production of printed circuit boards and perform electrical testing.
-Quote printed circuit boards as a Sales Assistant, analyzing requirements and raw material particularities.
-Academic
-FAM - Computer Science - Bachelor's Degree - 07/2024 - 06/2028
+Puc Minas - Urgencia, Emergência e Uti Pós-graduação
 
-FAM - Systems Analysis and Development - Technology Degree
-
-FIC - Music Bachelor's
+Universidade Anhanguera - Enfermagem Bacharelado
 
 Courses
 Escola da Nuvem - Bootcamp AWS re/Start - Cloud Computing | AWS, Soft Skills, Linux, Database, Networks
